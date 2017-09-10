@@ -1071,5 +1071,3 @@ deceile
 #The final model has accuracy of ~ 74% on using the optimal cut-off value as 0.1659281 . And the KS-statistics is             #
 #found to be 51% which lies in the 3rd decile .                                                                               #
 ###############################################################################################################################
-
-plot(final_model)
