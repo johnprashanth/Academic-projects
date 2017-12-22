@@ -6,7 +6,6 @@
 #changes they should make to their workplace, in order to get most of their employees to stay. Also, they want to know which   #
 #of these variables is most important and needs to be addressed right away.                                                    #
 #                                                                                                                              #
-#Dataset :https://archive.ics.uci.edu/ml/datasets/Automobile                                                                   #
 ##############################################R version: R-3.4.0 ###############################################################
 
 library(tidyr)
